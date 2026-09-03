@@ -1,8 +1,10 @@
 <div align="center">
-Omar — Computer Vision / ML Engineer
-
-</div> <br>
-
+![Header](./banner.svg)
+ 
+CV/ML engineer building real-time inference systems — RTSP decode to detection, tracking, and recognition, end to end.
+ 
+</div>
+<br>
 ### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
