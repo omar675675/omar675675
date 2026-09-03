@@ -1,10 +1,7 @@
-<div align="center">
 ![Header](./banner.svg)
- 
+
 CV/ML engineer building real-time inference systems — RTSP decode to detection, tracking, and recognition, end to end.
- 
-</div>
-<br>
+
 ### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -26,7 +23,7 @@ CV/ML engineer building real-time inference systems — RTSP decode to detection
 
 Production CV work: TensorRT/CUDA inference pipelines, YOLO detection, facial recognition (InsightFace/ArcFace), ANPR (CRNN+CTC OCR), and multi-object tracking.
 
-Currently building a computer vision platform:
+Currently building **Fovea** at [Lunavis](https://luna-vis.com) — a computer vision platform:
 - Custom C++/pybind11 RTSP decoder + TensorRT inference core
 - ByteTrack multi-object tracking with two-line hysteresis zone counting
 - gRPC control plane over a POSIX shared-memory data plane, serving multiple downstream consumers from a single pipeline
@@ -49,7 +46,7 @@ Currently building a computer vision platform:
 
 ### Background
 
-BS Electrical & Electronics Engineering (2020) → moved into AI/CV work in Jan 2023. CS50 AI with Python, CS50 Introduction to Programming with Python.
+BS Electrical & Electronics Engineering (2020) → moved into AI/CV work in Oct 2023. CS50 AI with Python, CS50 Introduction to Programming with Python.
 
 ### Contact
 
