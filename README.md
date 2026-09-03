@@ -36,12 +36,6 @@ Currently building **Fovea** at [Lunavis](https://luna-vis.com) — a computer v
 | [facial-recognition](https://github.com/omar675675/facial-recognition) | InsightFace/ArcFace facial recognition pipeline |
 | [cv-platform-capabilities](https://github.com/omar675675/cv-platform-capabilities) | ANPR, counting, and access-control modules |
 
-### Stats
-
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar675675&show_icons=true&theme=dark&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=omar675675&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omar675675&layout=compact&theme=dark&hide_border=true)
-
 ### Background
 
 BS Electrical & Electronics Engineering (2020) → moved into AI/CV work in Oct 2023. CS50 AI with Python, CS50 Introduction to Programming with Python.
