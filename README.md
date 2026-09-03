@@ -1,13 +1,9 @@
 <div align="center">
+Omar — Computer Vision / ML Engineer
 
-## Omar — Computer Vision / ML Engineer
+CV/ML engineer building real-time inference systems — RTSP decode to detection, tracking, and recognition, end to end.
 
-Real-time inference pipelines · multi-object tracking · facial recognition · ANPR
-Amman, Jordan (Remote)
-
-</div>
-
-<br>
+</div> <br>
 
 ### Stack
 
