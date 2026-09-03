@@ -1,8 +1,6 @@
 <div align="center">
 Omar — Computer Vision / ML Engineer
 
-CV/ML engineer building real-time inference systems — RTSP decode to detection, tracking, and recognition, end to end.
-
 </div> <br>
 
 ### Stack
